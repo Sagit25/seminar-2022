@@ -23,24 +23,24 @@
     <td><a href="./seminar0/사전준비.md">링크</a></td>
     <td><a href="./seminar0/seminar-2022-django-00.pdf">링크</a></td>
     <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment0">링크</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://snu-ac-kr.zoom.us/j/98971848946?pwd=V0J4ZXl2N0thaFMxSWU1K0puUlE2dz09">링크</a></td>
+    <td><a href="https://www.youtube.com/watch?v=T1MfnMLwgAo&list=PLoHXQ9xKafZMxix8XP22W5zlR6JcI-a1r">링크</a></td>
   </tr>
   <tr>
     <td>1</td>
     <td>Django에서의 MVC와 Class based view</td>
-    <td>9월 20일 (화) 오후 7시</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>9월 20일 (화) 오후 7시 30분</td>
+    <td><a href="https://place.map.kakao.com/9732239">강남 라이지움</a></td>
+    <td><a href="./seminar1/사전준비.md">링크</a></td>
+    <td><a href="./seminar1/seminar-2022-django-01.pdf">링크</a></td>
+    <td><a href="https://github.com/wafflestudio/seminar-2022-django-assignment1">링크</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Model Relationships과 QuerySet</td>
-    <td>10월 4일 (화) 오후 7시</td>
+    <td>10월 4일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -54,7 +54,7 @@
   <tr>
     <td>3</td>
     <td>Django Rest Framework 톺아보기</td>
-    <td>11월 1일 (화) 오후 7시</td>
+    <td>11월 1일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -65,7 +65,7 @@
   <tr>
     <td>4</td>
     <td>Django가 왜 느려질까? 퍼포먼스 최적화</td>
-    <td>11월 15일 (화) 오후 7시</td>
+    <td>11월 15일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -75,8 +75,8 @@
   </tr>
   <tr>
     <td>5</td>
-    <td>서버 개발자가 실제로 겪게 되는 일</td>
-    <td>11월 29일 (화) 오후 7시</td>
+    <td>매력적인 이력서와 내가 낸 Django 코딩인터뷰</td>
+    <td>11월 29일 (화) 오후 7시 30분</td>
     <td></td>
     <td></td>
     <td></td>
@@ -93,6 +93,8 @@
 ## 링크
 
 - [구글 드라이브](https://drive.google.com/drive/folders/1BP5PxhAJtZUfFPXRHe_E0T7rY0IM4npE?usp=sharing)
+- [출결표](https://docs.google.com/spreadsheets/d/1FGmSCwnbz0vlOmjtrsOdYU6cuH8jN7MoBtFI9hZdi1E/edit#gid=0)
+- [과제 제출표](https://docs.google.com/spreadsheets/d/1Of5sGYHasMMtOVZgUQBF5aVVtHH0AHllrrTuVOCJJaM/edit#gid=0)
 
 ## 공지사항
 
